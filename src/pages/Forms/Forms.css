@@ -1,0 +1,10 @@
+.space{
+    padding: 0.5rem;
+}
+.in_space{
+    padding: 0.5rem;
+}
+.color{
+    border-style: solid;
+    border-color: black;
+}

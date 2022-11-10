@@ -1,0 +1,344 @@
+{
+  "customers": [
+    {
+      "customer_id": "001",
+      "name": "Chali chozo",
+      "church": "Gospel",
+      "diocese": "Diocese of chur",
+      "phone_number": "0798765432"
+    },
+    {
+      "customer_id": "002",
+      "name": "Butler Boomer",
+      "church": "Gospel",
+      "diocese": "Diocese friboug",
+      "phone_number": "0798765432"
+    },
+    {
+      "customer_id": "003",
+      "name": "Taylor Chesney",
+      "church": "Gospel",
+      "diocese": "Diocese of chur",
+      "phone_number": "0798765432"
+    },
+    {
+      "customer_id": "004",
+      "name": "Adrian chozo",
+      "church": "Gospel",
+      "diocese": "Diocese of geneva",
+      "phone_number": "0798765432"
+    },
+    {
+      "customer_id": "005",
+      "name": "Alan Machozo",
+      "church": "Gospel",
+      "diocese": "Diocese of Basel",
+      "phone_number": "0798765432"
+    }
+  ],
+  "product_master": [
+    {
+      "product_code": "pc002",
+      "product_name": "001",
+      "product_costprice": "KSH 4000",
+      "product_sellprice": "KSH 5000",
+      "product_vat": "VAt123",
+      "product_deposit": "KSH 3000",
+      "product_installment_amount": "KSH 3957",
+      "product_installment_count": "0798"
+    },
+    {
+      "product_code": "pc002",
+      "product_name": "001",
+      "product_costprice": "KSH 4000",
+      "product_sellprice": "KSH 5000",
+      "product_vat": "VAt123",
+      "product_deposit": "KSH 3000",
+      "product_installment_amount": "KSH 3957",
+      "product_installment_count": "0798"
+    },
+    {
+      "product_code": "pc002",
+      "product_name": "001",
+      "product_costprice": "KSH 4000",
+      "product_sellprice": "KSH 5000",
+      "product_vat": "VAt123",
+      "product_deposit": "KSH 3000",
+      "product_installment_amount": "KSH 3957",
+      "product_installment_count": "0798"
+    },
+    {
+      "product_code": "pc002",
+      "product_name": "001",
+      "product_costprice": "KSH 4000",
+      "product_sellprice": "KSH 5000",
+      "product_vat": "VAt123",
+      "product_deposit": "KSH 3000",
+      "product_installment_amount": "KSH 3957",
+      "product_installment_count": "0798"
+    },
+    {
+      "product_code": "pc002",
+      "product_name": "001",
+      "product_costprice": "KSH 4000",
+      "product_sellprice": "KSH 5000",
+      "product_vat": "VAt123",
+      "product_deposit": "KSH 3000",
+      "product_installment_amount": "KSH 3957",
+      "product_installment_count": "0798"
+    },
+    {
+      "product_code": "pc002",
+      "product_name": "001",
+      "product_costprice": "KSH 4000",
+      "product_sellprice": "KSH 5000",
+      "product_vat": "VAt123",
+      "product_deposit": "KSH 3000",
+      "product_installment_amount": "KSH 3957",
+      "product_installment_count": "0798"
+    }
+  ],
+  "vat_master": [
+    {
+      "vat_code": "876",
+      "vat_percent": "98%"
+    },
+    {
+      "vat_code": "098",
+      "vat_percent": "98%"
+    },
+    {
+      "vat_code": "098",
+      "vat_percent": "98%"
+    }
+  ],
+  "supplier_master": [
+    {
+      "supplier_code": "078",
+      "supplier_name": "rajesh Akinyi",
+      "supplier_pin": "3456",
+      "supplier_address": "Kongowea"
+    },
+    {
+      "supplier_code": "078",
+      "supplier_name": "rajesh Akinyi",
+      "supplier_pin": "3456",
+      "supplier_address": "Kongowea"
+    },
+    {
+      "supplier_code": "078",
+      "supplier_name": "rajesh Akinyi",
+      "supplier_pin": "3456",
+      "supplier_address": "Kongowea"
+    },
+    {
+      "supplier_code": "078",
+      "supplier_name": "rajesh Akinyi",
+      "supplier_pin": "3456",
+      "supplier_address": "Kongowea"
+    }
+  ],
+
+  "distributor_master": [
+    {
+      "distributor_code": "078",
+      "distributor_name": "rajesh Akinyi",
+      "distributor_contact": "3456",
+      "distributor_phone": "Kongowea",
+      "distributor_email": "Kongowea",
+      "distributor_vat": "Kongowea"
+    },
+    {
+      "distributor_code": "078",
+      "distributor_name": "rajesh Akinyi",
+      "distributor_contact": "3456",
+      "distributor_phone": "Kongowea",
+      "distributor_email": "Kongowea",
+      "distributor_vat": "Kongowea"
+    },
+    {
+      "distributor_code": "078",
+      "distributor_name": "rajesh Akinyi",
+      "distributor_contact": "3456",
+      "distributor_phone": "Kongowea",
+      "distributor_email": "Kongowea",
+      "distributor_vat": "Kongowea"
+    },
+    {
+      "distributor_code": "078",
+      "distributor_name": "rajesh Akinyi",
+      "distributor_contact": "3456",
+      "distributor_phone": "Kongowea",
+      "distributor_email": "Kongowea",
+      "distributor_vat": "Kongowea"
+    }
+  ],
+  "diocese_master": [
+    {
+      "diocese_code": "078",
+      "distributor_code": "rajesh Akinyi",
+      "diocese_name": "3456",
+      "county": "Kongowea",
+      "sub_county": "Kongowea"
+    },
+    {
+      "diocese_code": "078",
+      "distributor_code": "rajesh Akinyi",
+      "diocese_name": "3456",
+      "county": "Kongowea",
+      "sub_county": "Kongowea"
+    },
+    {
+      "diocese_code": "078",
+      "distributor_code": "rajesh Akinyi",
+      "diocese_name": "3456",
+      "county": "Kongowea",
+      "sub_county": "Kongowea"
+    },
+    {
+      "diocese_code": "078",
+      "distributor_code": "rajesh Akinyi",
+      "diocese_name": "3456",
+      "county": "Kongowea",
+      "sub_county": "Kongowea"
+    }
+  ],
+  "distributor_invoice_master": [
+    {
+      "distributor_code": "rajesh Akinyi",
+      "diocese_code": "078",
+      "invoice_number": "3456",
+      "date": "Kongowea",
+      "ship_to": "Kongowea",
+      "terms": "Kongowea",
+      "ship_date": "Kongowea",
+      "total": "Kongowea"
+    },
+    {
+      "distributor_code": "rajesh Akinyi",
+      "diocese_code": "078",
+      "invoice_number": "3456",
+      "date": "Kongowea",
+      "ship_to": "Kongowea",
+      "terms": "Kongowea",
+      "ship_date": "Kongowea",
+      "total": "Kongowea"
+    },
+    {
+      "distributor_code": "rajesh Akinyi",
+      "diocese_code": "078",
+      "invoice_number": "3456",
+      "date": "Kongowea",
+      "ship_to": "Kongowea",
+      "terms": "Kongowea",
+      "ship_date": "Kongowea",
+      "total": "Kongowea"
+    },
+    {
+      "distributor_code": "rajesh Akinyi",
+      "diocese_code": "078",
+      "invoice_number": "3456",
+      "date": "Kongowea",
+      "ship_to": "Kongowea",
+      "terms": "Kongowea",
+      "ship_date": "Kongowea",
+      "total": "Kongowea"
+    }
+  ],
+  "distributor_invoice_txn": [
+    {
+      "invoice_number": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "customer_id": "3456",
+      "product_code": "Kongowea",
+      "rate": "Kongowea",
+      "amount": "Kongowea",
+      "vat": "Kongowea",
+      "total": "Kongowea",
+      "product_serial": "Kongowea"
+    },
+    {
+      "invoice_number": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "customer_id": "3456",
+      "product_code": "Kongowea",
+      "rate": "Kongowea",
+      "amount": "Kongowea",
+      "vat": "Kongowea",
+      "total": "Kongowea",
+      "product_serial": "Kongowea"
+    },
+    {
+      "invoice_number": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "customer_id": "3456",
+      "product_code": "Kongowea",
+      "rate": "Kongowea",
+      "amount": "Kongowea",
+      "vat": "Kongowea",
+      "total": "Kongowea",
+      "product_serial": "Kongowea"
+    }
+  ],
+  "distributor_payment_master": [
+    {
+      "payment_id": "rajesh Akinyi",
+      "payment_date": "078",
+      "payment_mode": "3456",
+      "payment_code": "Kongowea",
+      "amount": "Kongowea",
+      "invoice_number": "Kongowea"
+    },
+    {
+      "payment_id": "rajesh Akinyi",
+      "payment_date": "078",
+      "payment_mode": "3456",
+      "payment_code": "Kongowear",
+      "amount": "Kongoweao",
+      "invoice_number": "Kongowea"
+    },
+    {
+      "payment_id": "rajesh Akinyi",
+      "payment_date": "078",
+      "payment_mode": "3456",
+      "payment_code": "Kongowea",
+      "amount": "Kongowea",
+      "invoice_number": "Kongowea"
+    },
+    {
+      "payment_id": "rajesh Akinyi",
+      "payment_date": "078",
+      "payment_mode": "3456",
+      "payment_code": "Kongowea",
+      "amount": "Kongowea",
+      "invoice_number": "Kongowea"
+    }
+  ],
+  "distributor_payment_allocation": [
+    {
+      "payment_id": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "amount_allocated": "3456"
+    },
+    {
+      "payment_id": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "amount_allocated": "3456"
+    },
+    {
+      "payment_id": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "amount_allocated": "3456"
+    },
+    {
+      "payment_id": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "amount_allocated": "3456"
+    },
+    {
+      "payment_id": "rajesh Akinyi",
+      "invoice_subnumber": "078",
+      "amount_allocated": "3456"
+    }
+  ]
+}
